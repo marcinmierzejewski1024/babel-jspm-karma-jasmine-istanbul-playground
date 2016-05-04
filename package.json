@@ -1,5 +1,6 @@
 {
   "devDependencies": {
+    "babel-polyfill": "^6.8.0",
     "jasmine": "^2.4.1",
     "jasmine-core": "^2.4.1",
     "jspm": "^0.16.34",
